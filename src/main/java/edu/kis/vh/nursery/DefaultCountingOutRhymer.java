@@ -2,7 +2,7 @@ package edu.kis.vh.nursery;
 
 // Alt + strzałki powoduje zmianę karty aktualnie edytowanego kodu
 
-public class defaultCountingOutRhymer
+public class DefaultCountingOutRhymer
 {
 
     private int[] numbers = new int[12];

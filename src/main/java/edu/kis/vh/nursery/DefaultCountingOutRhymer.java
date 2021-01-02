@@ -8,7 +8,7 @@ public class DefaultCountingOutRhymer
     public static final int numbersTotal = 12;
     private int[] numbers = new int[numbersTotal];
 
-    public final int total = -1;
+    public int total = -1;
 
     public void countIn(int in)
     {
